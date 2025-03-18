@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Lovelo-Black';
+  src: url('./Lovelo-Black.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lovelo-LineBold';
+  src: url('./Lovelo-LineBold.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lovelo-LineLight';
+  src: url('./Lovelo-LineLight.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
