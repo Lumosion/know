@@ -41,7 +41,7 @@ main {
 
 @font-face {
   font-family: 'Lovelo-Black';
-  src: url('@/assets/fonts/Lovelo-Black.ttf');
+  src: url('@/assets/text/Lovelo-Black.ttf');
   font-weight: normal;
   font-style: normal;
 }
